@@ -1,0 +1,1 @@
+This project aims to predict future energy usage of equipment using advanced forecasting techniques such as Facebook Prophet. By leveraging these tools, we can anticipate energy consumption patterns, enabling better resource allocation and energy efficiency strategies.
